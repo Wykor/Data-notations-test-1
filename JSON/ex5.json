@@ -1,0 +1,46 @@
+{
+  "socialNetworkingSites": [
+    {
+      "name": "Facebook",
+      "launchYear": 2004,
+      "monthlyActiveUsers": 2900000000,
+      "founders": ["Mark Zuckerberg", "Eduardo Saverin", "Andrew McCollum", "Dustin Moskovitz", "Chris Hughes"],
+      "primaryPurpose": "Connect with friends and family"
+    },
+    {
+      "name": "Twitter",
+      "launchYear": 2006,
+      "monthlyActiveUsers": 450000000,
+      "founders": ["Jack Dorsey", "Biz Stone", "Evan Williams", "Noah Glass"],
+      "primaryPurpose": "Share short messages and updates"
+    },
+    {
+      "name": "Instagram",
+      "launchYear": 2010,
+      "monthlyActiveUsers": 1400000000,
+      "founders": ["Kevin Systrom", "Mike Krieger"],
+      "primaryPurpose": "Photo and video sharing"
+    },
+    {
+      "name": "LinkedIn",
+      "launchYear": 2003,
+      "monthlyActiveUsers": 930000000,
+      "founders": ["Reid Hoffman", "Allen Blue", "Konstantin Guericke", "Eric Ly", "Jean-Luc Vaillant"],
+      "primaryPurpose": "Professional networking"
+    },
+    {
+      "name": "TikTok",
+      "launchYear": 2016,
+      "monthlyActiveUsers": 1000000000,
+      "founders": ["Zhang Yiming"],
+      "primaryPurpose": "Short-form video sharing"
+    },
+    {
+      "name": "Snapchat",
+      "launchYear": 2011,
+      "monthlyActiveUsers": 600000000,
+      "founders": ["Evan Spiegel", "Bobby Murphy", "Reggie Brown"],
+      "primaryPurpose": "Multimedia messaging"
+    }
+  ]
+}
