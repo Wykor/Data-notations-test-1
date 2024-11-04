@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SocialNetworkingSites>
+    <Site>
+        <Name>Facebook</Name>
+        <Founded>2004</Founded>
+        <Founder>Mark Zuckerberg</Founder>
+        <Purpose>Connect people and share content</Purpose>
+    </Site>
+    <Site>
+        <Name>Twitter</Name>
+        <Founded>2006</Founded>
+        <Founder>Jack Dorsey</Founder>
+        <Purpose>Share short messages and updates</Purpose>
+    </Site>
+    <Site>
+        <Name>Instagram</Name>
+        <Founded>2010</Founded>
+        <Founder>Kevin Systrom</Founder>
+        <Purpose>Share photos and videos</Purpose>
+    </Site>
+    <Site>
+        <Name>LinkedIn</Name>
+        <Founded>2003</Founded>
+        <Founder>Reid Hoffman</Founder>
+        <Purpose>Professional networking</Purpose>
+    </Site>
+    <Site>
+        <Name>Snapchat</Name>
+        <Founded>2011</Founded>
+        <Founder>Evans Spiegel</Founder>
+        <Purpose>Share ephemeral content</Purpose>
+    </Site>
+    <Site>
+        <Name>TikTok</Name>
+        <Founded>2016</Founded>
+        <Founder>Zhang Yiming</Founder>
+        <Purpose>Short-form video sharing</Purpose>
+    </Site>
+</SocialNetworkingSites>
