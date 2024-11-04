@@ -1,0 +1,23 @@
+{
+    "socialNetworkingSite": {
+      "name": "Reddit",
+      "launchYear": 2005,
+      "monthlyActiveUsers": 430000000,
+      "averageSessionDuration": 12.5,
+      "isPublic": true,
+      "subreddits": [
+        "r/AskReddit",
+        "r/funny",
+        "r/technology",
+        "r/gaming",
+        "r/news"
+      ],
+      "founders": {
+        "founder1": "Steve Huffman",
+        "founder2": "Alexis Ohanian",
+        "founder3": "Aaron Swartz"
+      },
+      "dominantLanguage": "English"
+    }
+  }
+  
