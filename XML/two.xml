@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SocialNetworkingSites>
+    <Site>
+        <Name platform="web" popularity="high">Facebook</Name>
+        <Founded year="2004" source="Harvard University">2004</Founded>
+        <Founder nationality="American" age="39">Mark Zuckerberg</Founder>
+        <Purpose targetAudience="general" contentType="varied">Connect people and share content</Purpose>
+    </Site>
+    <Site>
+        <Name platform="web" popularity="high">Twitter</Name>
+        <Founded year="2006" source="Odeo">2006</Founded>
+        <Founder nationality="American" age="47">Jack Dorsey</Founder>
+        <Purpose targetAudience="general" contentType="text">Share short messages and updates</Purpose>
+    </Site>
+    <Site>
+        <Name platform="mobile" popularity="high">Instagram</Name>
+        <Founded year="2010" source="Burbn">2010</Founded>
+        <Founder nationality="American" age="40">Kevin Systrom</Founder>
+        <Purpose targetAudience="youth" contentType="visual">Share photos and videos</Purpose>
+    </Site>
+    <Site>
+        <Name platform="web" popularity="medium">LinkedIn</Name>
+        <Founded year="2003" source="Professional networking">2003</Founded>
+        <Founder nationality="American" age="56">Reid Hoffman</Founder>
+        <Purpose targetAudience="professionals" contentType="career">Professional networking</Purpose>
+    </Site>
+    <Site>
+        <Name platform="mobile" popularity="high">Snapchat</Name>
+        <Founded year="2011" source="Snap Inc.">2011</Founded>
+        <Founder nationality="American" age="34">Evan Spiegel</Founder>
+        <Purpose targetAudience="youth" contentType="ephemeral">Share ephemeral content</Purpose>
+    </Site>
+    <Site>
+        <Name platform="mobile" popularity="high">TikTok</Name>
+        <Founded year="2016" source="ByteDance">2016</Founded>
+        <Founder nationality="Chinese" age="41">Zhang Yiming</Founder>
+        <Purpose targetAudience="youth" contentType="video">Short-form video sharing</Purpose>
+    </Site>
+</SocialNetworkingSites>
